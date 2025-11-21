@@ -8,7 +8,7 @@ public class ActionController {
 
     @GetMapping("/actions")
     public void actions() {
-        System.out.println("Test");
+        System.out.println("Test1");
     }
 
 }
